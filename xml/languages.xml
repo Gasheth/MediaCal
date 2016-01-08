@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Languages>
+ <Language>
+   <name>Français</name>
+   <abbreviation>fr</abbreviation>
+   <id>17</id>
+ </Language>
+ <Language>
+   <name>English</name>
+   <abbreviation>en</abbreviation>
+   <id>7</id>
+ </Language>
+</Languages>
